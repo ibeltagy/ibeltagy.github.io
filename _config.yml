@@ -4,5 +4,5 @@ show_downloads: false
 github:
   is_user_page: true
   is_project_page: false
-google_analytics:
+google_analytics: UA-63032495-1
 theme: jekyll-theme-minimal
