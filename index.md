@@ -1,5 +1,5 @@
-I am a Research Scientist at [Allen Institute for Artificial Intelligence (AI2)](https://allenai.org/).
-I received my PhD in Computer Science from the [University of Texas at Austin](https://www.cs.utexas.edu/) working with [Ray Mooney](https://www.cs.utexas.edu/~mooney/) and [Katrin Erk](http://www.katrinerk.com/). For list of publications, 
+I am a Research Scientist at [Allen Institute for Artificial Intelligence (AI2)](https://allenai.org/) where I work on Natural Langauge Processing with focus on scientific documents. 
+I received my PhD in Computer Science from the [University of Texas at Austin](https://www.cs.utexas.edu/) working with [Ray Mooney](https://www.cs.utexas.edu/~mooney/) and [Katrin Erk](http://www.katrinerk.com/). For the list of publications, 
 please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Beltagy/46181066?sort=pub-date) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=jkV6H1gAAAAJ&view_op=list_works&sortby=pubdate) pages.
 
 ### News
@@ -16,6 +16,6 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - **SciSpacy** - a Spacy pipeline for scientific documents. [Code](https://github.com/allenai/scispacy)
 
-- **SciBERT** - a BERT model for scientific documents. [Code and Pretrained model](https://github.com/allenai/scibert)
+- **SciBERT** - a BERT model for scientific documents. [Code, Data, and Pretrained model](https://github.com/allenai/scibert)
 
 #### Contact: firstname@lastname.net 
