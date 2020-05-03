@@ -17,7 +17,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### News
 
-- [5/2020] **SciBERT** has been downloaded close to [20,000 times](https://huggingface.co/allenai/scibert_scivocab_uncased) in the last [30 days](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/scibert.png?token=AARORNIGTYRPHZQUQLQ7MPS6W47WM) 
+- [5/2020] **SciBERT** has been downloaded more than [20,000 times](https://huggingface.co/allenai/scibert_scivocab_uncased) in the last [30 days](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/scibert.png?token=AARORNIGTYRPHZQUQLQ7MPS6W47WM)
 
 - [4/2020] **Longformer** is [out](https://twitter.com/i_beltagy/status/1254907063492206592)
 
