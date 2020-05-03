@@ -16,3 +16,11 @@ social:
   links:
     - "https://twitter.com/ibeltagy"
     - "https://www.linkedin.com/in/beltagy"
+twitter:
+  username               : ibeltagy
+
+author:
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=jkV6H1gAAAAJ&view_op=list_works&sortby=pubdate"
+  linkedin         : "https://www.linkedin.com/in/beltagy"
+  twitter          : "ibeltagy"
+  semanticscholar  : "https://www.semanticscholar.org/author/Iz-Beltagy/46181066?sort=pub-date"
