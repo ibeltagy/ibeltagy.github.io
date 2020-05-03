@@ -8,7 +8,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [4/2020] **Longformer** is [out](https://twitter.com/i_beltagy/status/1254907063492206592)
 
-- [4/2020] 3/3 papers accepted at ACL2020
+- [4/2020] 3/3 papers accepted at ACL 2020
 
 
 ### Recent Projects
