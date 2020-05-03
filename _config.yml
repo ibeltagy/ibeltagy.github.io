@@ -1,6 +1,6 @@
 title: Iz Beltagy
 name: "Iz Beltagy"
-description: research scientist at AI2 working on NLP
+description: a research scientist at AI2 working on NLP
 url: https://ibeltagy.github.io/
 logo: assets/logo.jpg
 site.locale: "en-US"
@@ -18,7 +18,6 @@ social:
     - "https://www.linkedin.com/in/beltagy"
 twitter:
   username               : ibeltagy
-
 author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=jkV6H1gAAAAJ&view_op=list_works&sortby=pubdate"
   linkedin         : "https://www.linkedin.com/in/beltagy"
