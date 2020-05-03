@@ -1,7 +1,7 @@
 title: Iz Beltagy
 subtitle: "test"
 name: "Iz Beltagy"
-# site.description: Iz Beltagy is a Research Scientist working at Allen Institute for Artificial Intelligence (AI2) on Natural Language Processing (NLP)
+description: a research scientist at AI2 doing NLP research
 url: https://ibeltagy.github.io/
 logo: assets/logo.jpg
 site.locale: "en-US"
