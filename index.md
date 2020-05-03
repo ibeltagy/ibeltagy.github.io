@@ -20,5 +20,3 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 - **SciSpacy** - a Spacy pipeline for scientific documents. [Code](https://github.com/allenai/scispacy)
 
 - **SciBERT** - a BERT model for scientific documents. [Code, Data, and Pretrained model](https://github.com/allenai/scibert)
-
-#### Contact: firstname@lastname.net 
