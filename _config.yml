@@ -10,8 +10,7 @@ github:
 twitter_username: ibeltagy
 og_image: assets/logo.jpg
 google_analytics: UA-63032495-1
-# theme: jekyll-theme-minimal
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-minimal
 social:
   type: Person
   links:
