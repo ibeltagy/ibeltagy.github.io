@@ -1,8 +1,18 @@
 title: Iz Beltagy
+name: "Iz Beltagy"
+description: Iz Beltagy is a Research Scientist working at Allen Institute for Artificial Intelligence (AI2) on Natural Language Processing (NLP)
+url: https://beltagy.net
 logo: assets/logo.jpg
-show_downloads: false
+site.locale: "en-US"
 github:
   is_user_page: true
   is_project_page: false
+twitter_username: ibeltagy
+og_image: assets/logo.jpg
 google_analytics: UA-63032495-1
 theme: jekyll-theme-minimal
+social:
+  type:  Person
+  links:
+    - "https://twitter.com/ibeltagy"
+    - "https://www.linkedin.com/in/beltagy"
