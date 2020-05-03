@@ -7,19 +7,19 @@ site.locale: "en-US"
 github:
   is_user_page: true
   is_project_page: false
-twitter_username: ibeltagy
+twitter_username: i_beltagy
 og_image: assets/logo.jpg
 google_analytics: UA-63032495-1
 theme: jekyll-theme-minimal
 social:
   type: Person
   links:
-    - "https://twitter.com/ibeltagy"
+    - "https://twitter.com/i_beltagy"
     - "https://www.linkedin.com/in/beltagy"
 # twitter:
 #   username               : ibeltagy
 # author:
 #   googlescholar    : "https://scholar.google.com/citations?hl=en&user=jkV6H1gAAAAJ&view_op=list_works&sortby=pubdate"
 #   linkedin         : "https://www.linkedin.com/in/beltagy"
-#   twitter          : "ibeltagy"
+#   twitter          : "i_beltagy"
 #   semanticscholar  : "https://www.semanticscholar.org/author/Iz-Beltagy/46181066?sort=pub-date"
