@@ -1,4 +1,4 @@
-I am a Research Scientist at [Allen Institute for Artificial Intelligence (AI2)](https://allenai.org/) working on Natural Langauge Processing with focus on scientific documents. 
+I am a Research Scientist at [Allen Institute for Artificial Intelligence (AI2)](https://allenai.org/) working on Natural Language Processing with focus on scientific documents. 
 I received my PhD in Computer Science from the [University of Texas at Austin](https://www.cs.utexas.edu/) working with [Ray Mooney](https://www.cs.utexas.edu/~mooney/) and [Katrin Erk](http://www.katrinerk.com/). 
 
 For the list of publications, 
