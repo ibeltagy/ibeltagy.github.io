@@ -17,6 +17,8 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### News
 
+- [6/2020] Gave a talk about **Longformer** to UW NLP [[slides](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/longformer-slides.pdf?raw=true)]
+
 - [6/2020] **Longformer** is now integrated into the [huggingface repo](https://huggingface.co/allenai/longformer-base-4096)
 
 - [5/2020] **SciBERT** has been downloaded more than [20,000 times](https://huggingface.co/allenai/scibert_scivocab_uncased) in the last [30 days](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/scibert.png?raw=true)
@@ -24,3 +26,5 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 - [4/2020] **Longformer** is [out](https://twitter.com/i_beltagy/status/1254907063492206592)
 
 - [4/2020] 3/3 papers accepted at ACL 2020 [[1](https://github.com/allenai/scirex)], [[2](https://github.com/allenai/specter)], [[3](https://github.com/allenai/dont-stop-pretraining)]
+
+- [3/2020] Co-organizing the SciNLP workshop. Check [scinlp.org](http://scinlp.org/)
