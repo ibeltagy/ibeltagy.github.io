@@ -21,7 +21,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [6/2020] Invited serve as a standing reviewer of Computational Linguistics (CL) journal.
 
-- [6/2020] Gave a talk about **Longformer** to UW NLP [[slides](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/longformer-slides.pdf?raw=true)]
+- [6/2020] Gave a talk about **Longformer** to UW NLP students [[slides](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/longformer-slides.pdf?raw=true)]
 
 - [6/2020] **Longformer** is now integrated into the [huggingface repo](https://huggingface.co/allenai/longformer-base-4096)
 
