@@ -17,7 +17,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### News
 
-- [7/2020] Our paper, [Don't Stop Pretraining](https://github.com/allenai/dont-stop-pretraining), won an honorary mention at ACL 2020.
+- [7/2020] Our paper, [Don't Stop Pretraining](https://arxiv.org/abs/2004.10964), won an honorary mention at ACL 2020.
 
 - [6/2020] Invited to serve as a standing reviewer of Computational Linguistics (CL) journal.
 
