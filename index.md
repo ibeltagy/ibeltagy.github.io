@@ -19,7 +19,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [7/2020] Our paper, [Don't Stop Pretraining](https://github.com/allenai/dont-stop-pretraining), got an honorary mention at ACL 2020.
 
-- [6/2020] Invited serve as a standing reviewer of Computational Linguistics (CL) journal.
+- [6/2020] Invited to serve as a standing reviewer of Computational Linguistics (CL) journal.
 
 - [6/2020] Gave a talk about **Longformer** to UW NLP students [[slides](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/longformer-slides.pdf?raw=true)]
 
