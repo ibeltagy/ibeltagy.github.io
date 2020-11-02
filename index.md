@@ -17,6 +17,10 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### News
 
+- [10/2020] Serving as an area chair for the Sentence-level Semantics and Textual Inference track at **ACL 2021**.
+
+- [10/2020] Serving as an area chair for the Sentence-level Semantics and Textual Inference track at **NAACL 2021**.
+
 - [9/2020] Serving as a publication co-chair for [NAACL 2021](https://2021.naacl.org/organization).
 
 - [7/2020] Our paper, [Don't Stop Pretraining](https://arxiv.org/abs/2004.10964), won an [honorary mention at ACL 2020](https://acl2020.org/blog/ACL-2020-best-papers/).
