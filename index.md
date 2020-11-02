@@ -17,9 +17,9 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### News
 
-- [10/2020] Serving as an area chair for the Sentence-level Semantics and Textual Inference track at **ACL 2021**.
+- [10/2020] Serving as an area chair for the Sentence-level Semantics and Textual Inference track at ACL 2021.
 
-- [10/2020] Serving as an area chair for the Sentence-level Semantics and Textual Inference track at **NAACL 2021**.
+- [10/2020] Serving as an area chair for the Sentence-level Semantics and Textual Inference track at NAACL 2021.
 
 - [9/2020] Serving as a publication co-chair for [NAACL 2021](https://2021.naacl.org/organization).
 
