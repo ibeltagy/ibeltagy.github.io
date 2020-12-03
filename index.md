@@ -17,6 +17,10 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### News
 
+- [12/2020] Our tutorial "Beyond Paragraphs: NLP for Long Sequences" has been accepted to appear at NAACL 2021.
+
+- [11/2020] Co-organizing The Second Workshop on Scholarly Document Processing [(SDP 2021)](https://ornlcda.github.io/SDProc/2021/index.html).
+
 - [10/2020] Serving as an area chair for the Sentence-level Semantics and Textual Inference track at ACL 2021.
 
 - [10/2020] Serving as an area chair for the Sentence-level Semantics and Textual Inference track at NAACL 2021.
