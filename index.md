@@ -7,15 +7,21 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### Recent Projects
 
-- **Longformer** - a BERT-like model for long documents. [Code and Pretrained model](https://github.com/allenai/longformer)
+- **LongformerEncoderDecoder (LED)** - a pretrained transformer for long-document generation tasks. [[Code and Pretrained model](https://github.com/allenai/longformer)]
 
-- **SPECTER** - a citation-informed embedding model for scintific documents.  [Code, Data and Pretrained Model](https://github.com/allenai/specter)
+- **Longformer** - a BERT-like model for long documents. [[Code and Pretrained model](https://github.com/allenai/longformer)]
 
-- **SciSpacy** - a Spacy pipeline for scientific documents. [Code](https://github.com/allenai/scispacy)
+- **SPECTER** - a citation-informed embedding model for scintific documents.  [[Code, Data and Pretrained Model](https://github.com/allenai/specter)]
 
-- **SciBERT** - a BERT model for scientific documents. [Code, Data, and Pretrained model](https://github.com/allenai/scibert)
+- **SciSpacy** - a Spacy pipeline for scientific documents. [[Code](https://github.com/allenai/scispacy)]
+
+- **SciBERT** - a BERT model for scientific documents. [[Code, Data, and Pretrained model](https://github.com/allenai/scibert)]
 
 ### News
+
+- [12/2020] Selected as Outstanding Reviewer for [EMNLP 2020](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf).
+
+- [12/2020] LongformerEncoderDecoder (LED) is out. [[Paper](https://arxiv.org/abs/2004.05150)] [[Code and Pretrained model](https://github.com/allenai/longformer)]
 
 - [12/2020] Our tutorial "Beyond Paragraphs: NLP for Long Sequences" has been accepted to appear at NAACL 2021.
 
