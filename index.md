@@ -19,7 +19,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### News
 
-- [12/2020] Selected as Outstanding Reviewer for [EMNLP 2020](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf).
+- [12/2020] Selected as an Outstanding Reviewer for [EMNLP 2020](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf).
 
 - [12/2020] LongformerEncoderDecoder (LED) is out. [[Paper](https://arxiv.org/abs/2004.05150)] [[Code and Pretrained model](https://github.com/allenai/longformer)]
 
