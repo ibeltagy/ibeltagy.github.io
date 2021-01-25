@@ -1,4 +1,4 @@
-I am a Research Scientist at [Allen Institute for Artificial Intelligence (AI2)](https://allenai.org/) working on Natural Language Processing with focus on scientific documents. 
+I am a Senior Research Scientist at [Allen Institute for Artificial Intelligence (AI2)](https://allenai.org/) working on Natural Language Processing with focus on scientific documents. 
 I received my PhD in Computer Science from the [University of Texas at Austin](https://www.cs.utexas.edu/) working with [Ray Mooney](https://www.cs.utexas.edu/~mooney/) and [Katrin Erk](http://www.katrinerk.com/). 
 
 For the list of publications, 
@@ -18,6 +18,8 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 - **SciBERT** - a BERT model for scientific documents. [[Code, Data, and Pretrained model](https://github.com/allenai/scibert)]
 
 ### News
+
+- [1/2021] Promoted to Senior Research Scientist at AI2.
 
 - [12/2020] Selected as an Outstanding Reviewer for [EMNLP 2020](https://www.aclweb.org/anthology/2020.emnlp-main.0.pdf).
 
