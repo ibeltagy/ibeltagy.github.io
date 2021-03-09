@@ -18,6 +18,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 - **SciBERT** - a BERT model for scientific documents. [[Code, Data, and Pretrained model](https://github.com/allenai/scibert)]
 
 ### News
+- [3/2021] Serving as an area chair for the ML for NLP track at EMNLP 2021.
 
 - [1/2021] Promoted to Senior Research Scientist at AI2.
 
