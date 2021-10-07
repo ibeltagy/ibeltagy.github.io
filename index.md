@@ -28,7 +28,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [9/2021] Our paper, [FLEX](https://arxiv.org/abs/2107.07170) has been accepted at NeurIPS 2021.
 
-- [9/2021] Our paper, [SciCo](https://arxiv.org/abs/2104.08809) won [**outstanding paper award at AKBC 2021**]((https://www.akbc.ws/2021/awards/)).
+- [9/2021] Our paper, [SciCo](https://arxiv.org/abs/2104.08809) won [**outstanding paper award at AKBC 2021**](https://www.akbc.ws/2021/awards/).
 
 - [8/2021] Two EMNLP 2021 accepted papers; [MS2](https://arxiv.org/abs/2104.06486) at the main conference and [CDLM](https://arxiv.org/abs/2101.00406) in the Findings of EMNLP.
 
