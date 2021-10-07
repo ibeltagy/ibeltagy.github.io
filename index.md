@@ -32,7 +32,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [8/2021] Two EMNLP 2021 accepted papers; [MS2](https://arxiv.org/abs/2104.06486) at the main conference and [CDLM](https://arxiv.org/abs/2101.00406) in the Findings of EMNLP.
 
-- [6/2021] Chairing the Architecture and Scaling group at the [BigScience](https://bigscience.huggingface.co/) project aiming to train a 200B-parameter multilingual language model. [[Recent slide](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/longformer-slides.pdf?raw=true)]. [[Weekly meeting calendar invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2w1aTNxMnVpM2o1MHNpcWJiamdoMnUwMThfMjAyMTEwMDZUMTQwMDAwWiBwa29zb2puamc0bm8ycDc0bGk2NmVvZmxxZ0Bn&tmsrc=pkosojnjg4no2p74li66eoflqg%40group.calendar.google.com&scp=ALL)].
+- [6/2021] Chairing the Architecture and Scaling group at the [BigScience](https://bigscience.huggingface.co/) project aiming to train a 200B-parameter multilingual language model. [[Recent slide](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/big_science_episode_2.pdf?raw=true)]. [[Weekly meeting calendar invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2w1aTNxMnVpM2o1MHNpcWJiamdoMnUwMThfMjAyMTEwMDZUMTQwMDAwWiBwa29zb2puamc0bm8ycDc0bGk2NmVvZmxxZ0Bn&tmsrc=pkosojnjg4no2p74li66eoflqg%40group.calendar.google.com&scp=ALL)].
 
 - [5/2021] Joined the AllenNLP team at AI2.
 
