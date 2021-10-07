@@ -5,7 +5,14 @@ For the list of publications,
 please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Beltagy/46181066?sort=pub-date) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=jkV6H1gAAAAJ&view_op=list_works&sortby=pubdate) pages.
 
 
-### Recent Projects
+### Selected Recent Projects
+
+
+- **FLEX** - principles of zero/few-shot NLP evaluation. [[Paper](https://arxiv.org/abs/2107.07170)] [[Leaderboard](https://leaderboard.allenai.org/flex/submissions/public)] [[Baseline model](https://github.com/allenai/unifew)]
+
+- **CDLM** - a pretrained language model for cross-document proecssing. [[Code and Pretrained Model](https://github.com/aviclu/CDLM)]
+
+- **MS2** - a large scale biomedical multi-document summarization dataset. [[Code and Dataset](https://github.com/allenai/ms2)]
 
 - **LongformerEncoderDecoder (LED)** - a pretrained transformer for long-document generation tasks. [[Code and Pretrained model](https://github.com/allenai/longformer)]
 
@@ -17,15 +24,17 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - **SciBERT** - a BERT model for scientific documents. [[Code, Data, and Pretrained model](https://github.com/allenai/scibert)]
 
-### News
+### Updates
 
-- [9/2021] Our paper, [FLEX](https://arxiv.org/abs/2107.07170) paper has been accepted at NeurIPS 2021.
+- [9/2021] Our paper, [FLEX](https://arxiv.org/abs/2107.07170) has been accepted at NeurIPS 2021.
 
-- [9/2021] Our paper, [SciCo](https://arxiv.org/abs/2104.08809) won outstanding paper award at [AKBC 2021](https://www.akbc.ws/2021/awards/).
+- [9/2021] Our paper, [SciCo](https://arxiv.org/abs/2104.08809) won [**outstanding paper award at AKBC 2021**]((https://www.akbc.ws/2021/awards/)).
 
 - [8/2021] Two EMNLP 2021 accepted papers; [MS2](https://arxiv.org/abs/2104.06486) at the main conference and [CDLM](https://arxiv.org/abs/2101.00406) in the Findings of EMNLP.
 
-- [5/2021] Chairing the Architecture and Scaling group at the [BigScience](https://bigscience.huggingface.co/) project. [Recent slide](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/longformer-slides.pdf?raw=true). [Weekly meeting calendar invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2w1aTNxMnVpM2o1MHNpcWJiamdoMnUwMThfMjAyMTEwMDZUMTQwMDAwWiBwa29zb2puamc0bm8ycDc0bGk2NmVvZmxxZ0Bn&tmsrc=pkosojnjg4no2p74li66eoflqg%40group.calendar.google.com&scp=ALL).
+- [6/2021] Chairing the Architecture and Scaling group at the [BigScience](https://bigscience.huggingface.co/) project aiming to train a 200B-parameter multilingual language model. [[Recent slide](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/longformer-slides.pdf?raw=true)]. [[Weekly meeting calendar invite](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2w1aTNxMnVpM2o1MHNpcWJiamdoMnUwMThfMjAyMTEwMDZUMTQwMDAwWiBwa29zb2puamc0bm8ycDc0bGk2NmVvZmxxZ0Bn&tmsrc=pkosojnjg4no2p74li66eoflqg%40group.calendar.google.com&scp=ALL)].
+
+- [5/2021] Joined the AllenNLP team at AI2.
 
 - [3/2021] Serving as an area chair for the ML for NLP track at EMNLP 2021.
 
@@ -45,7 +54,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [9/2020] Serving as a publication co-chair for [NAACL 2021](https://2021.naacl.org/organization).
 
-- [7/2020] Our paper, [Don't Stop Pretraining](https://arxiv.org/abs/2004.10964), won an [honorary mention at ACL 2020](https://acl2020.org/blog/ACL-2020-best-papers/).
+- [7/2020] Our paper, [Don't Stop Pretraining](https://arxiv.org/abs/2004.10964), won an [**honorary mention at ACL 2020**](https://acl2020.org/blog/ACL-2020-best-papers/).
 
 - [6/2020] Invited to serve as a standing reviewer of Computational Linguistics (CL) journal.
 
