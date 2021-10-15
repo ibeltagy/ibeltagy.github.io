@@ -26,6 +26,8 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### Updates
 
+- [10/2021] Serving as an Action Editor for [ACL Rolling Review](https://aclrollingreview.org/people)
+- 
 - [9/2021] Our paper, [FLEX](https://arxiv.org/abs/2107.07170) has been accepted at NeurIPS 2021.
 
 - [9/2021] Our paper, [SciCo](https://arxiv.org/abs/2104.08809) won [**outstanding paper award at AKBC 2021**](https://www.akbc.ws/2021/awards/).
@@ -56,7 +58,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [7/2020] Our paper, [Don't Stop Pretraining](https://arxiv.org/abs/2004.10964), won an [**honorary mention at ACL 2020**](https://acl2020.org/blog/ACL-2020-best-papers/).
 
-- [6/2020] Invited to serve as a standing reviewer of Computational Linguistics (CL) journal.
+- [6/2020] Serving as a standing reviewer of Computational Linguistics (CL) journal.
 
 - [6/2020] Gave a talk about **Longformer** to UW NLP students [[slides](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/longformer-slides.pdf?raw=true)]
 
