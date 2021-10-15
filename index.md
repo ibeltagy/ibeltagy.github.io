@@ -27,7 +27,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 ### Updates
 
 - [10/2021] Serving as an Action Editor for [ACL Rolling Review](https://aclrollingreview.org/people)
-- 
+
 - [9/2021] Our paper, [FLEX](https://arxiv.org/abs/2107.07170) has been accepted at NeurIPS 2021.
 
 - [9/2021] Our paper, [SciCo](https://arxiv.org/abs/2104.08809) won [**outstanding paper award at AKBC 2021**](https://www.akbc.ws/2021/awards/).
