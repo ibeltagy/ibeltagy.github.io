@@ -5,7 +5,7 @@ For the list of publications,
 please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Beltagy/46181066?sort=pub-date) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=jkV6H1gAAAAJ&view_op=list_works&sortby=pubdate) pages.
 
 
-### Selected Recent Projects
+### Select Recent Projects
 
 
 - **FLEX** - principles of zero/few-shot NLP evaluation. [[Paper](https://arxiv.org/abs/2107.07170)] [[Leaderboard](https://leaderboard.allenai.org/flex/submissions/public)] [[Baseline model](https://github.com/allenai/unifew)]
