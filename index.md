@@ -1,4 +1,4 @@
-I am a Senior Research Scientist at [Allen Institute for Artificial Intelligence (AI2)](https://allenai.org/) on the [AllenNLP team](https://allennlp.org/).
+I am a Senior Research Scientist at [Allen Institute for Artificial Intelligence (AI2)](https://allenai.org/) in the [AllenNLP team](https://allennlp.org/).
 I received my PhD in Computer Science from the [University of Texas at Austin](https://www.cs.utexas.edu/) working with [Ray Mooney](https://www.cs.utexas.edu/~mooney/) and [Katrin Erk](http://www.katrinerk.com/). 
 
 For the list of publications, 
