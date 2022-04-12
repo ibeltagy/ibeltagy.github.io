@@ -9,7 +9,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 
 - **Staged Training** - incrementally growing model size during pretraining. [[Paper](https://arxiv.org/abs/2203.06211)], [[Code](https://github.com/allenai/staged-training)]
-- 
+
 - **FLEX** - principles of zero/few-shot NLP evaluation. [[Paper](https://arxiv.org/abs/2107.07170)] [[Leaderboard](https://leaderboard.allenai.org/flex/submissions/public)] [[Baseline model](https://github.com/allenai/unifew)]
 
 - **CDLM** - a pretrained language model for cross-document proecssing. [[Code and Pretrained Model](https://github.com/aviclu/CDLM)]
@@ -28,16 +28,15 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### Updates
 
-- [4/2022] Gave an invited talk at the [Georgia Tech NLP seminar](https://sites.google.com/view/nlpseminar/home). [[slides]((https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/EfficientScalingOfLMpretraining.pdf?raw=true)])]
+- [4/2022] Gave an invited talk at the [Georgia Tech NLP seminar](https://sites.google.com/view/nlpseminar/home) about Efficient Scaling of LM pretraining. [[slides](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/EfficientScalingOfLMpretraining.pdf?raw=true)]
 
-- [4/2022] Our paper [What Language Model to Train if You Have One Million GPU Hours?](https://openreview.net/pdf?id=rI7BL3fHIZq) is now available. It is the bases for the model design used to train the [BigScience language model](https://bigscience.huggingface.co/).
+- [4/2022] Our paper [What Language Model to Train if You Have One Million GPU Hours?](https://openreview.net/pdf?id=rI7BL3fHIZq) is now available. It outlines the design and training setup of the [BigScience language model](https://bigscience.huggingface.co/).
 
-- [3/2022] Our Staged Training paper is now available on arxiv [[Paper](https://arxiv.org/abs/2203.06211)], [[Code](https://github.com/allenai/staged-training)]
+- [3/2022] Our Staged Training paper is now available on arxiv. [[Paper](https://arxiv.org/abs/2203.06211)] [[Code](https://github.com/allenai/staged-training)]
 
-- [3/2022] Training of the [BigScience language model](https://bigscience.huggingface.co/) has started. The model is based on our paper, [here](https://openreview.net/pdf?id=rI7BL3fHIZq); an effor by the Architecture and Scaling group that I am [co-chairing](https://twitter.com/BigscienceW/status/1505835083994959874).
+- [3/2022] Training of the [BigScience language model](https://bigscience.huggingface.co/) has started. The model is based on our paper [here](https://openreview.net/pdf?id=rI7BL3fHIZq); an effor by the Architecture and Scaling group that I am [co-chairing](https://twitter.com/BigscienceW/status/1505835083994959874).
 
 - [12/2022] Wen Xiao, my intern with Arman won [Intern of the Year](https://allenai.org/outstanding-interns) award at AI2. Her [paper](https://arxiv.org/abs/2110.08499) on multi-document summarization has been accepted for publication at ACL 2022.
-- 
 
 - [12/2022] Our tutorial [Zero- and Few-Shot NLP with Pretrained Language Models](https://www.2022.aclweb.org/tutorials) has been accepted to appear at ACL 2022. 
 
