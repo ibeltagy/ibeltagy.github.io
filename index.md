@@ -32,6 +32,8 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [4/2022] Our paper [What Language Model to Train if You Have One Million GPU Hours?](https://openreview.net/pdf?id=rI7BL3fHIZq) is now available. It outlines the design and training setup of the [BigScience language model](https://bigscience.huggingface.co/).
 
+- [4/2022] Two papers accepted at Findings of NAACL 2022, [LongChecker](https://arxiv.org/abs/2112.01640) and [Few-shot Self-Rationalization](https://arxiv.org/abs/2111.08284).
+
 - [3/2022] Our Staged Training paper is now available on arxiv. [[Paper](https://arxiv.org/abs/2203.06211)] [[Code](https://github.com/allenai/staged-training)]
 
 - [3/2022] Training of the [BigScience language model](https://bigscience.huggingface.co/) has started. The model is based on our paper [here](https://openreview.net/pdf?id=rI7BL3fHIZq); an effor by the Architecture and Scaling group that I am [co-chairing](https://twitter.com/BigscienceW/status/1505835083994959874).
