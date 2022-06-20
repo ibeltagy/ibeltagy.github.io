@@ -28,6 +28,8 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### Updates
 
+- [6/2022] Serving as a standing reviewer for [TACL](https://transacl.org/ojs/index.php/tacl/about/editorialTeam).
+
 - [4/2022] Gave an invited talk at the [Georgia Tech NLP seminar](https://sites.google.com/view/nlpseminar/home) about Efficient Scaling of LM pretraining. [[slides](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/EfficientScalingOfLMpretraining.pdf?raw=true)]
 
 - [4/2022] Our paper [What Language Model to Train if You Have One Million GPU Hours?](https://openreview.net/pdf?id=rI7BL3fHIZq) is now available. It outlines the design and training setup of the [BigScience language model](https://bigscience.huggingface.co/).
