@@ -28,15 +28,15 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### Updates
 
-- [7/2022] Gave a talk to [The UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/index.en.jsp) at the Technical University of Darmstadt. [Slides](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/UKP_BeyondParagraphsLanguageModelingofLongSequences?raw=true)
+- [7/2022] Gave a talk to [The UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/index.en.jsp) at the Technical University of Darmstadt. [[Slides](https://github.com/ibeltagy/ibeltagy.github.io/raw/master/assets/UKP_BeyondParagraphsLanguageModelingofLongSequences.pdf)]
 
 - [6/2022] Serving as a standing reviewer for [TACL](https://transacl.org/ojs/index.php/tacl/about/editorialTeam).
 
 - [5/2022] An average of ~500 attended our tutorial, [Zero- and Few-Shot NLP with Pretrained Language Models](https://github.com/allenai/acl2022-zerofewshot-tutorial) at ACL 2022. [Slides](https://github.com/allenai/acl2022-zerofewshot-tutorial). [Videos](https://underline.io/events/284/sessions?eventSessionId=10748) (require ACL 2022 registration with Underline). [Arman presenting part 6 of the tutorial](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/tutorial_acl2022.jpeg).
 
-- [5/2022] Gave an invited talk with Julien Launay at the [Challenges & Perspectives in Creating Large Language Models](https://bigscience.huggingface.co/acl-2022) workshop, co-located with ACL 2022. [Slides](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/acl2022.pdf?raw=true).
+- [5/2022] Gave an invited talk with Julien Launay at the [Challenges & Perspectives in Creating Large Language Models](https://bigscience.huggingface.co/acl-2022) workshop, co-located with ACL 2022. [[Slides](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/acl2022.pdf?raw=true)].
 
-- [4/2022] Gave an invited talk at the [Georgia Tech NLP seminar](https://sites.google.com/view/nlpseminar/home) about Efficient Scaling of LM pretraining. [[slides](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/EfficientScalingOfLMpretraining.pdf?raw=true)]
+- [4/2022] Gave an invited talk at the [Georgia Tech NLP seminar](https://sites.google.com/view/nlpseminar/home) about Efficient Scaling of LM pretraining. [[Slides](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/EfficientScalingOfLMpretraining.pdf?raw=true)]
 
 - [4/2022] Our paper [What Language Model to Train if You Have One Million GPU Hours?](https://openreview.net/pdf?id=rI7BL3fHIZq) is now available. It outlines the design and training setup of the [BigScience language model](https://bigscience.huggingface.co/).
 
@@ -84,7 +84,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [6/2020] Serving as a standing reviewer of Computational Linguistics (CL) journal.
 
-- [6/2020] Gave a talk about **Longformer** to UW NLP students [[slides](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/longformer-slides.pdf?raw=true)]
+- [6/2020] Gave a talk about **Longformer** to UW NLP students [[Slides](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/longformer-slides.pdf?raw=true)]
 
 - [6/2020] **Longformer** is now integrated into the [huggingface repo](https://huggingface.co/allenai/longformer-base-4096)
 
