@@ -32,7 +32,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [6/2022] Serving as a standing reviewer for [TACL](https://transacl.org/ojs/index.php/tacl/about/editorialTeam).
 
-- [5/2022] An average of ~500 attended our tutorial, [Zero- and Few-Shot NLP with Pretrained Language Models](https://github.com/allenai/acl2022-zerofewshot-tutorial) at ACL 2022. [Slides](https://github.com/allenai/acl2022-zerofewshot-tutorial). [Videos](https://underline.io/events/284/sessions?eventSessionId=10748). 
+- [5/2022] An average of ~500 attended our tutorial, [Zero- and Few-Shot NLP with Pretrained Language Models](https://github.com/allenai/acl2022-zerofewshot-tutorial) at ACL 2022. [Slides](https://github.com/allenai/acl2022-zerofewshot-tutorial). [Videos](https://underline.io/events/284/sessions?eventSessionId=10748) (require ACL 2022 registration with Underline). [Arman presenting part 6 of the tutorial](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/tutorial_acl2022.jpeg).
 
 - [5/2022] Gave an invited talk with Julien Launay at the [Challenges & Perspectives in Creating Large Language Models](https://bigscience.huggingface.co/acl-2022) workshop, co-located with ACL 2022. [Slides](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/acl2022.pdf?raw=true).
 
