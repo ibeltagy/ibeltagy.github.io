@@ -28,6 +28,8 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### Updates
 
+- [7/2022] Gave a talk to [The UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/index.en.jsp) at the Technical University of Darmstadt. [Slides](https://raw.githubusercontent.com/ibeltagy/ibeltagy.github.io/master/assets/UKP_BeyondParagraphsLanguageModelingofLongSequences?raw=true)
+
 - [6/2022] Serving as a standing reviewer for [TACL](https://transacl.org/ojs/index.php/tacl/about/editorialTeam).
 
 - [5/2022] An average of ~500 attended our tutorial, [Zero- and Few-Shot NLP with Pretrained Language Models](https://github.com/allenai/acl2022-zerofewshot-tutorial) at ACL 2022. [Slides](https://github.com/allenai/acl2022-zerofewshot-tutorial). [Videos](https://underline.io/events/284/sessions?eventSessionId=10748). 
