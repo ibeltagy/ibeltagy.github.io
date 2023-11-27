@@ -10,8 +10,6 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - **BLOOM** the open-source LLM from the BigScience project, which co-led its architecture and scaling group. [Architecture papers [1](https://aclanthology.org/2022.findings-emnlp.54/), [2](https://proceedings.mlr.press/v162/wang22u/wang22u.pdf)], [[Model](https://huggingface.co/bigscience/bloom)]
 
-What LM to train with 1M GPU hours** - the architecture selection paper of the BLOOM model [[paper](https://aclanthology.org/2022.findings-emnlp.54/)]
-
 - **Staged Training** - incrementally growing model size during pretraining. [[Paper](https://arxiv.org/abs/2203.06211)], [[Code](https://github.com/allenai/staged-training)]
 
 - **FLEX** - principles of zero/few-shot NLP evaluation. [[Paper](https://arxiv.org/abs/2107.07170)] [[Leaderboard](https://leaderboard.allenai.org/flex/submissions/public)] [[Baseline model](https://github.com/allenai/unifew)]
