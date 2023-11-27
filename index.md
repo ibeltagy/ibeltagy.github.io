@@ -8,7 +8,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 ### Select Recent Projects
 
 
-- **BLOOM** the open-source LLM from the BigScience project, which co-led its architecture and scaling group. [Architecture papers [1](https://aclanthology.org/2022.findings-emnlp.54/), [2](https://proceedings.mlr.press/v162/wang22u/wang22u.pdf)], [[Model](https://huggingface.co/bigscience/bloom)]
+- **BLOOM** the open-source LLM from the BigScience project, which co-led its architecture and scaling group. [Architecture papers [1](https://aclanthology.org/2022.findings-emnlp.54/), [2](https://proceedings.mlr.press/v162/wang22u/wang22u.pdf)], [[Overview paper](https://arxiv.org/abs/2211.05100)], [[Model](https://huggingface.co/bigscience/bloom)]
 
 - **Staged Training** - incrementally growing model size during pretraining. [[Paper](https://arxiv.org/abs/2203.06211)], [[Code](https://github.com/allenai/staged-training)]
 
@@ -31,6 +31,8 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 ### Updates
 
 - [7/2023] Promoted to Lead Research Scientist at AI2.
+
+- [5/2023] [Rabeeh](https://scholar.google.com/citations?user=buoHMDMAAAAJ&hl=en)'s internship on diffusion is on arxiv. [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](https://arxiv.org/abs/2305.08379)
 
 - [12/2022] At EMNLP in Abu Dhabi. Collaborators are presenting four papers [1](https://aclanthology.org/2022.emnlp-main.300/), [2](https://aclanthology.org/2022.findings-emnlp.54/), [3](https://aclanthology.org/2022.findings-emnlp.347/), [4](https://aclanthology.org/2022.gem-1.51/).
 
