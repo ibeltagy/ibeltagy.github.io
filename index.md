@@ -7,7 +7,10 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### Select Recent Projects
 
+- **TÜLU-1 and TÜLU-2** Instruction-tuned and DPO-based models outperforming llama-2 on a wide set of tasks. [Paper [1](https://arxiv.org/abs/2306.04751), [2](https://arxiv.org/abs/2311.10702)], [[Code](https://github.com/allenai/open-instruct)].
 - **BLOOM** - the open-source LLM from the BigScience project, which co-led its architecture and scaling group. [Architecture papers [1](https://aclanthology.org/2022.findings-emnlp.54/), [2](https://proceedings.mlr.press/v162/wang22u/wang22u.pdf)], [[Overview paper](https://arxiv.org/abs/2211.05100)], [[Model](https://huggingface.co/bigscience/bloom)]
+
+- **DOLMA** A state-of-the-art pretraining dataset of 3T tokens. [[Blog](https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64)]. [[Data and Toolkit](https://github.com/allenai/dolma)].
 
 - **Can LMs learn "meaning"** - TACL2022 paper led by Zhaofeng. [[Paper](https://arxiv.org/abs/2210.07468)]
 
@@ -35,13 +38,19 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [12/2023] Giving an invited talk at the [NewSumm, EMNLP 2023](https://newsumm.github.io/2023/) workshop.
 
-- [11/2023] Closing the seed round of funding for my startup, [Spiffy.ai](https://spiffy.ai).
+- [11/2023] Our TÜLU-2 paper is out. [[Paper](https://arxiv.org/abs/2311.10702)], [[Code](https://github.com/allenai/open-instruct)].
+
+- [11/2023] **Closing the seed round of funding for my startup, [Spiffy.ai](https://spiffy.ai)**.
 
 - [10/2023] Gave a talk at the [ELLIS LLM symposium](https://sites.google.com/view/ellisfms2023) about OLMo and open language models. [[Slides](https://docs.google.com/presentation/d/1WLTudJGx-dOFfqVn-fYyh4HVjlPofWw7E5yJHpRMa6A/edit)].
 
 - [10/2023] Invited to serve as an Area Chair for EACL 2024.
 
 - [10/2023] Gave a guest lecture at [Arman's Foundation Models course](https://yale-nlp.github.io/cpsc488/schedule/).
+
+- [9/2023] Our TÜLU-1 paper is accepted for publishing at NeurIPS 2023 Datasets and Benchmarks Track. [[Paper](https://arxiv.org/abs/2306.04751)], [[Code](https://github.com/allenai/open-instruct)].
+
+- [8/2023] The **DOLMA** dataset is out. [[Blog](https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64)]. [[Data and Toolkit](https://github.com/allenai/dolma)].
 
 - [8/2023] Serving as an Area Chair for EMNLP 2023.
 
