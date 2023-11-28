@@ -1,4 +1,4 @@
-I am Co-founder and Chief Scientist of [spiffy.ai](https://spiffy.ai), a startup building intelligent systems that bring out the best in human capabilities.
+I am a Co-founder and the Chief Scientist of [spiffy.ai](https://spiffy.ai), a startup building intelligent systems that bring out the best in human capabilities.
 
 I am a Lead Research Scientist at [Allen Institute for AI (AI2)](https://allenai.org/) in the [AllenNLP team](https://allennlp.org/), and the Research Lead of the OLMo project. OLMo aimes to build "state-of-the-art", "truly-open" LLMs to narrow the gap between open and proprietary research. My role started with ideation and feasibility studies before the project's inception, continuing through to the present where we now have a mature, large, corss-team project.
 
