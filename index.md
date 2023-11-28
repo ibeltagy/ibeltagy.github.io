@@ -9,9 +9,9 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - **BLOOM** - the open-source LLM from the BigScience project, which co-led its architecture and scaling group. [Architecture papers [1](https://aclanthology.org/2022.findings-emnlp.54/), [2](https://proceedings.mlr.press/v162/wang22u/wang22u.pdf)], [[Overview paper](https://arxiv.org/abs/2211.05100)], [[Model](https://huggingface.co/bigscience/bloom)]
 
-- **Can LMs learn "meaning"** - TACL2022 paper led by Zhaofeng. [Paper[(https://arxiv.org/abs/2210.07468)]]
+- **Can LMs learn "meaning"** - TACL2022 paper led by Zhaofeng. [[Paper](https://arxiv.org/abs/2210.07468)]
 
-- **Z-ICL** - zero-shot ICL with pseudo-demonstrations. [Paper[(https://arxiv.org/abs/2212.09865)]]
+- **Z-ICL** - zero-shot ICL with pseudo-demonstrations. [[Paper](https://arxiv.org/abs/2212.09865)]
 
 - **Staged Training** - incrementally growing model size during pretraining. [[Paper](https://arxiv.org/abs/2203.06211)], [[Code](https://github.com/allenai/staged-training)]
 
