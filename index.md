@@ -41,7 +41,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 - [8/2023] Serving as an Area Chair for EMNLP 2023.
 
 
-- [7/2023] Promoted to Lead Research Scientist at AI2.
+- [7/2023] Promoted to **Lead Research Scientist** at AI2.
 
 - [7/2023] At ACL, 2023 in Toronto. Collaborators are presenting three papers [1](https://arxiv.org/abs/2212.09865), [2](https://aclanthology.org/2023.acl-long.454/), [3](https://arxiv.org/abs/2210.07468).
 
