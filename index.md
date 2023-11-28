@@ -11,7 +11,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - **DOLMA** A state-of-the-art pretraining dataset of 3T tokens. [[Blog](https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64)]. [[Data and Toolkit](https://github.com/allenai/dolma)].
 
-- **OLMo** A large cross-teams project at AI2 aiming to train truly open SOTA LLMs to narrow the gap between open and proprietary LLM research. https://allenai.org/olmo
+- **OLMo** A large cross-teams project at AI2 aiming to train truly open SOTA LLMs to narrow the gap between open and proprietary LLM research. [https://allenai.org/olmo](https://allenai.org/olmo)
 
 - **BLOOM** - the open-source LLM from the BigScience project, which co-led its architecture and scaling group. [Architecture papers [1](https://aclanthology.org/2022.findings-emnlp.54/), [2](https://proceedings.mlr.press/v162/wang22u/wang22u.pdf)], [[Overview paper](https://arxiv.org/abs/2211.05100)], [[Model](https://huggingface.co/bigscience/bloom)]
 
@@ -71,7 +71,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [2/2023] AI2 was offered 2M GPU hours from [LUMI](https://www.csc.fi/en/lumi), thanks to [Dirk](https://www.linkedin.com/in/mechanicaldirk/)'s efforts.
 
-- [1/2023] Organizing conversations inside AI2 to discuss if we should train our own LLMs.
+- [1-3/2023] Conversations inside AI2 to discuss the necessity and feasibility of training our own LLMs.
 
 - [12/2022] At EMNLP in Abu Dhabi. Collaborators are presenting four papers [[1](https://aclanthology.org/2022.emnlp-main.300/)], [[2](https://aclanthology.org/2022.findings-emnlp.54/)], [[3](https://aclanthology.org/2022.findings-emnlp.347/)], [[4](https://aclanthology.org/2022.gem-1.51/)].
 
