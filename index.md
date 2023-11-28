@@ -5,12 +5,15 @@ For the list of publications,
 please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Beltagy/46181066?sort=pub-date) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=jkV6H1gAAAAJ&view_op=list_works&sortby=pubdate) pages.
 
 
-### Select Recent Projects
+### Select Projects
 
 - **TÜLU-1 and TÜLU-2** Instruction-tuned and DPO-based models outperforming llama-2 on a wide set of tasks. [Paper [1](https://arxiv.org/abs/2306.04751), [2](https://arxiv.org/abs/2311.10702)], [[Code](https://github.com/allenai/open-instruct)].
-- **BLOOM** - the open-source LLM from the BigScience project, which co-led its architecture and scaling group. [Architecture papers [1](https://aclanthology.org/2022.findings-emnlp.54/), [2](https://proceedings.mlr.press/v162/wang22u/wang22u.pdf)], [[Overview paper](https://arxiv.org/abs/2211.05100)], [[Model](https://huggingface.co/bigscience/bloom)]
 
 - **DOLMA** A state-of-the-art pretraining dataset of 3T tokens. [[Blog](https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64)]. [[Data and Toolkit](https://github.com/allenai/dolma)].
+
+- **OLMo** A large cross-teams project at AI2 aiming to train truly open SOTA LLMs to narrow the gap between open and proprietary LLM research. https://allenai.org/olmo
+
+- **BLOOM** - the open-source LLM from the BigScience project, which co-led its architecture and scaling group. [Architecture papers [1](https://aclanthology.org/2022.findings-emnlp.54/), [2](https://proceedings.mlr.press/v162/wang22u/wang22u.pdf)], [[Overview paper](https://arxiv.org/abs/2211.05100)], [[Model](https://huggingface.co/bigscience/bloom)]
 
 - **Can LMs learn "meaning"** - TACL2022 paper led by Zhaofeng. [[Paper](https://arxiv.org/abs/2210.07468)]
 
@@ -58,9 +61,17 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [7/2023] At ACL, 2023 in Toronto. Collaborators are presenting three papers [[1](https://arxiv.org/abs/2212.09865)], [[2](https://aclanthology.org/2023.acl-long.454/)], [[3](https://arxiv.org/abs/2210.07468)].
 
+- [6/2023] An #NLPHighlights podcast about OLMo and open LLMs. [Link](https://twitter.com/allen_ai/status/1674794167015452673).
+
 - [5/2023] Joined the panel discussion at the [Playground RoboChat event](https://twitter.com/i_beltagy/status/1658504613438558211) to talk about AI and the tradeoff between scale and efficiency.
 
 - [5/2023] [Rabeeh](https://scholar.google.com/citations?user=buoHMDMAAAAJ&hl=en)'s internship on diffusion is on arxiv. [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](https://arxiv.org/abs/2305.08379).
+
+- [3/2023] **Research Lead of the [OLMo](https://allenai.org/olmo) project** aiming to train "truly open" "SOTA" LLMs.
+
+- [2/2023] AI2 was offered 2M GPU hours from [LUMI](https://www.csc.fi/en/lumi), thanks to [Dirk](https://www.linkedin.com/in/mechanicaldirk/)'s efforts.
+
+- [1/2023] Organizing conversations inside AI2 to discuss if we should train our own LLMs.
 
 - [12/2022] At EMNLP in Abu Dhabi. Collaborators are presenting four papers [[1](https://aclanthology.org/2022.emnlp-main.300/)], [[2](https://aclanthology.org/2022.findings-emnlp.54/)], [[3](https://aclanthology.org/2022.findings-emnlp.347/)], [[4](https://aclanthology.org/2022.gem-1.51/)].
 
