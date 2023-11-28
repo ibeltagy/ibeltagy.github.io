@@ -33,7 +33,11 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### Updates
 
-- [10/2023] Gave a talk at the [ELLIS LLM symposium](https://sites.google.com/view/ellisfms2023) about OLMo and open language models. [Slides](https://docs.google.com/presentation/d/1WLTudJGx-dOFfqVn-fYyh4HVjlPofWw7E5yJHpRMa6A/edit).
+- [12/2023] Giving an invited talk at the [NewSumm, EMNLP 2023](https://newsumm.github.io/2023/) workshop.
+
+- [11/2023] Closing the seed round of funding for my startup, [Spiffy.ai](https://spiffy.ai).
+
+- [10/2023] Gave a talk at the [ELLIS LLM symposium](https://sites.google.com/view/ellisfms2023) about OLMo and open language models. [[Slides](https://docs.google.com/presentation/d/1WLTudJGx-dOFfqVn-fYyh4HVjlPofWw7E5yJHpRMa6A/edit)].
 
 - [10/2023] Invited to serve as an Area Chair for EACL 2024.
 
@@ -44,6 +48,8 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 - [7/2023] Promoted to **Lead Research Scientist** at AI2.
 
 - [7/2023] At ACL, 2023 in Toronto. Collaborators are presenting three papers [1](https://arxiv.org/abs/2212.09865), [2](https://aclanthology.org/2023.acl-long.454/), [3](https://arxiv.org/abs/2210.07468).
+
+- [5/2023] Joined the panel discussion at the [Playground RoboChat event](https://twitter.com/i_beltagy/status/1658504613438558211) to talk about AI and the tradeoff between scale and efficiency.
 
 
 - [5/2023] [Rabeeh](https://scholar.google.com/citations?user=buoHMDMAAAAJ&hl=en)'s internship on diffusion is on arxiv. [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](https://arxiv.org/abs/2305.08379).
