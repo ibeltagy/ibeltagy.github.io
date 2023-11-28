@@ -33,7 +33,12 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### Updates
 
-- [10/2023] Gave a talk at the [ELLIS LLM symposium](https://sites.google.com/view/ellisfms2023) about OLMo and open language models. [Slides](https://docs.google.com/presentation/d/1WLTudJGx-dOFfqVn-fYyh4HVjlPofWw7E5yJHpRMa6A/edit)
+- [10/2023] Gave a talk at the [ELLIS LLM symposium](https://sites.google.com/view/ellisfms2023) about OLMo and open language models. [Slides](https://docs.google.com/presentation/d/1WLTudJGx-dOFfqVn-fYyh4HVjlPofWw7E5yJHpRMa6A/edit).
+
+- [10/2023] Invited to serve as an Area Chair for EACL 2024.
+
+
+- [8/2023] Serving as an Area Chair for EMNLP 2023.
 
 
 - [7/2023] Promoted to Lead Research Scientist at AI2.
@@ -41,11 +46,13 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 - [7/2023] At ACL, 2023 in Toronto. Collaborators are presenting three papers [1](https://arxiv.org/abs/2212.09865), [2](https://aclanthology.org/2023.acl-long.454/), [3](https://arxiv.org/abs/2210.07468).
 
 
-- [5/2023] [Rabeeh](https://scholar.google.com/citations?user=buoHMDMAAAAJ&hl=en)'s internship on diffusion is on arxiv. [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](https://arxiv.org/abs/2305.08379)
+- [5/2023] [Rabeeh](https://scholar.google.com/citations?user=buoHMDMAAAAJ&hl=en)'s internship on diffusion is on arxiv. [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](https://arxiv.org/abs/2305.08379).
 
 - [12/2022] At EMNLP in Abu Dhabi. Collaborators are presenting four papers [1](https://aclanthology.org/2022.emnlp-main.300/), [2](https://aclanthology.org/2022.findings-emnlp.54/), [3](https://aclanthology.org/2022.findings-emnlp.347/), [4](https://aclanthology.org/2022.gem-1.51/).
 
 - [7/2022] Gave a talk to [The UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/index.en.jsp) at the Technical University of Darmstadt. [[Slides](https://github.com/ibeltagy/ibeltagy.github.io/raw/master/assets/UKP_BeyondParagraphsLanguageModelingofLongSequences.pdf)]
+
+- [6/2022] Invited to serve as AC for EMNLP 2022 for four tracks.
 
 - [6/2022] Serving as a standing reviewer for [TACL](https://transacl.org/ojs/index.php/tacl/about/editorialTeam).
 
