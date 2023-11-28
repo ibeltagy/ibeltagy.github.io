@@ -7,8 +7,11 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### Select Recent Projects
 
+- **BLOOM** - the open-source LLM from the BigScience project, which co-led its architecture and scaling group. [Architecture papers [1](https://aclanthology.org/2022.findings-emnlp.54/), [2](https://proceedings.mlr.press/v162/wang22u/wang22u.pdf)], [[Overview paper](https://arxiv.org/abs/2211.05100)], [[Model](https://huggingface.co/bigscience/bloom)]
 
-- **BLOOM** the open-source LLM from the BigScience project, which co-led its architecture and scaling group. [Architecture papers [1](https://aclanthology.org/2022.findings-emnlp.54/), [2](https://proceedings.mlr.press/v162/wang22u/wang22u.pdf)], [[Overview paper](https://arxiv.org/abs/2211.05100)], [[Model](https://huggingface.co/bigscience/bloom)]
+- **Can LMs learn "meaning"** - TACL2022 paper led by Zhaofeng. [Paper[(https://arxiv.org/abs/2210.07468)]]
+
+- **Z-ICL** - zero-shot ICL with pseudo-demonstrations. [Paper[(https://arxiv.org/abs/2212.09865)]]
 
 - **Staged Training** - incrementally growing model size during pretraining. [[Paper](https://arxiv.org/abs/2203.06211)], [[Code](https://github.com/allenai/staged-training)]
 
@@ -30,7 +33,13 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 ### Updates
 
+- [10/2023] Gave a talk at the [ELLIS LLM symposium](https://sites.google.com/view/ellisfms2023) about OLMo and open language models. [Slides](https://docs.google.com/presentation/d/1WLTudJGx-dOFfqVn-fYyh4HVjlPofWw7E5yJHpRMa6A/edit)
+
+
 - [7/2023] Promoted to Lead Research Scientist at AI2.
+
+- [7/2023] At ACL, 2023 in Toronto. Collaborators are presenting three papers [1](https://arxiv.org/abs/2212.09865), [2](https://aclanthology.org/2023.acl-long.454/), [3](https://arxiv.org/abs/2210.07468).
+
 
 - [5/2023] [Rabeeh](https://scholar.google.com/citations?user=buoHMDMAAAAJ&hl=en)'s internship on diffusion is on arxiv. [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](https://arxiv.org/abs/2305.08379)
 
