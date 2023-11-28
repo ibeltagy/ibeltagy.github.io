@@ -41,16 +41,15 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [10/2023] Invited to serve as an Area Chair for EACL 2024.
 
+- [10/2023] Gave a guest lecture at [Arman's Foundation Models course](https://yale-nlp.github.io/cpsc488/schedule/).
 
 - [8/2023] Serving as an Area Chair for EMNLP 2023.
-
 
 - [7/2023] Promoted to **Lead Research Scientist** at AI2.
 
 - [7/2023] At ACL, 2023 in Toronto. Collaborators are presenting three papers [1](https://arxiv.org/abs/2212.09865), [2](https://aclanthology.org/2023.acl-long.454/), [3](https://arxiv.org/abs/2210.07468).
 
 - [5/2023] Joined the panel discussion at the [Playground RoboChat event](https://twitter.com/i_beltagy/status/1658504613438558211) to talk about AI and the tradeoff between scale and efficiency.
-
 
 - [5/2023] [Rabeeh](https://scholar.google.com/citations?user=buoHMDMAAAAJ&hl=en)'s internship on diffusion is on arxiv. [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](https://arxiv.org/abs/2305.08379).
 
