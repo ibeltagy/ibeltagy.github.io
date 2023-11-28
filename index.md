@@ -56,13 +56,13 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [7/2023] Promoted to **Lead Research Scientist** at AI2.
 
-- [7/2023] At ACL, 2023 in Toronto. Collaborators are presenting three papers [1](https://arxiv.org/abs/2212.09865), [2](https://aclanthology.org/2023.acl-long.454/), [3](https://arxiv.org/abs/2210.07468).
+- [7/2023] At ACL, 2023 in Toronto. Collaborators are presenting three papers [[1](https://arxiv.org/abs/2212.09865)], [[2](https://aclanthology.org/2023.acl-long.454/)], [[3](https://arxiv.org/abs/2210.07468)].
 
 - [5/2023] Joined the panel discussion at the [Playground RoboChat event](https://twitter.com/i_beltagy/status/1658504613438558211) to talk about AI and the tradeoff between scale and efficiency.
 
 - [5/2023] [Rabeeh](https://scholar.google.com/citations?user=buoHMDMAAAAJ&hl=en)'s internship on diffusion is on arxiv. [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](https://arxiv.org/abs/2305.08379).
 
-- [12/2022] At EMNLP in Abu Dhabi. Collaborators are presenting four papers [1](https://aclanthology.org/2022.emnlp-main.300/), [2](https://aclanthology.org/2022.findings-emnlp.54/), [3](https://aclanthology.org/2022.findings-emnlp.347/), [4](https://aclanthology.org/2022.gem-1.51/).
+- [12/2022] At EMNLP in Abu Dhabi. Collaborators are presenting four papers [[1](https://aclanthology.org/2022.emnlp-main.300/)], [[2](https://aclanthology.org/2022.findings-emnlp.54/)], [[3](https://aclanthology.org/2022.findings-emnlp.347/)], [[4](https://aclanthology.org/2022.gem-1.51/)].
 
 - [7/2022] Gave a talk to [The UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/index.en.jsp) at the Technical University of Darmstadt. [[Slides](https://github.com/ibeltagy/ibeltagy.github.io/raw/master/assets/UKP_BeyondParagraphsLanguageModelingofLongSequences.pdf)]
 
