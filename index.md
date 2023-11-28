@@ -40,7 +40,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [11/2023] Our TÜLU-2 paper is out. [[Paper](https://arxiv.org/abs/2311.10702)], [[Code](https://github.com/allenai/open-instruct)].
 
-- [11/2023] **Closing the seed round of funding for my startup, [Spiffy.ai](https://spiffy.ai)**.
+- [11/2023] **Raised seed funding for my startup, [https://spiffy.ai](https://spiffy.ai)**.
 
 - [10/2023] Gave a talk at the [ELLIS LLM symposium](https://sites.google.com/view/ellisfms2023) about OLMo and open language models. [[Slides](https://docs.google.com/presentation/d/1WLTudJGx-dOFfqVn-fYyh4HVjlPofWw7E5yJHpRMa6A/edit)].
 
