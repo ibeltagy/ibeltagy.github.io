@@ -43,7 +43,7 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 
 - [5/2024] OLMo won the **Innovation of the Year** awared at GeekWire Awards! I had the privilege of accepting the award and delivering the speech. [[GeekWire](https://www.geekwire.com/2024/geekwire-awards-2024-revealed-winners-bask-in-momentum-of-ai-and-potential-of-region/)]. [[Twitter](https://x.com/allen_ai/status/1788999117747941522)].
 
-- [2/2024] **OLMo** is out. [[Blog](https://blog.allenai.org/olmo-open-language-model-87ccfc95f580)]. [[Paper](https://arxiv.org/abs/2402.00838)].
+- [2/2024] **OLMo-7b** is out. [[Blog](https://blog.allenai.org/olmo-open-language-model-87ccfc95f580)]. [[Paper](https://arxiv.org/abs/2402.00838)].
 
 - [12/2023] Giving an invited talk at the [NewSumm, EMNLP 2023](https://newsumm.github.io/2023/) workshop.
 
