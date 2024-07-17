@@ -4,17 +4,16 @@ I am a Lead Research Scientist at [Allen Institute for AI (AI2)](https://allenai
 
 I received my PhD in Computer Science from the [University of Texas at Austin](https://www.cs.utexas.edu/) working with [Ray Mooney](https://www.cs.utexas.edu/~mooney/) and [Katrin Erk](http://www.katrinerk.com/). 
 
-For the list of publications, 
+For the list of publications,
 please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Beltagy/46181066?sort=pub-date) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=jkV6H1gAAAAJ&view_op=list_works&sortby=pubdate) pages.
 
-
 ### Select Projects
+
+- **OLMo** A large cross-teams project at AI2 aiming to train truly open SOTA LLMs to narrow the gap between open and proprietary LLM research. [https://allenai.org/olmo](https://allenai.org/olmo)
 
 - **TÜLU-1 and TÜLU-2** Instruction-tuned and DPO-based models outperforming llama-2 on a wide set of tasks. [Paper [1](https://arxiv.org/abs/2306.04751), [2](https://arxiv.org/abs/2311.10702)], [[Code](https://github.com/allenai/open-instruct)].
 
 - **DOLMA** A state-of-the-art pretraining dataset of 3T tokens. [[Blog](https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64)]. [[Data and Toolkit](https://github.com/allenai/dolma)].
-
-- **OLMo** A large cross-teams project at AI2 aiming to train truly open SOTA LLMs to narrow the gap between open and proprietary LLM research. [https://allenai.org/olmo](https://allenai.org/olmo)
 
 - **BLOOM** - the open-source LLM from the BigScience project, which co-led its architecture and scaling group. [Architecture papers [1](https://aclanthology.org/2022.findings-emnlp.54/), [2](https://proceedings.mlr.press/v162/wang22u/wang22u.pdf)], [[Overview paper](https://arxiv.org/abs/2211.05100)], [[Model](https://huggingface.co/bigscience/bloom)]
 
@@ -41,6 +40,10 @@ please check my [Semantic Scholar](https://www.semanticscholar.org/author/Iz-Bel
 - **SciBERT** - a BERT model for scientific documents. [[Code, Data, and Pretrained model](https://github.com/allenai/scibert)]
 
 ### Updates
+
+- [5/2024] OLMo won the **Innovation of the Year** awared at GeekWire Awards! I had the privilege of accepting the award and delivering the speech. [[GeekWire](https://www.geekwire.com/2024/geekwire-awards-2024-revealed-winners-bask-in-momentum-of-ai-and-potential-of-region/)]. [[Twitter](https://x.com/allen_ai/status/1788999117747941522)].
+
+- [2/2024] **OLMo** is out. [[Blog](https://blog.allenai.org/olmo-open-language-model-87ccfc95f580)]. [[Paper](https://arxiv.org/abs/2402.00838)].
 
 - [12/2023] Giving an invited talk at the [NewSumm, EMNLP 2023](https://newsumm.github.io/2023/) workshop.
 
